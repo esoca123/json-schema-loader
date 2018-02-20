@@ -13,7 +13,7 @@
   "dependencies": {
     "json-schema-ref-parser": "^3.0.2",
     "loader-utils": "^0.2.16",
-    "lodash": "^4.10.0"
+    "rutils": "^1.0.28"
   },
   "bugs": {
     "url": "https://github.com/cloudflare/json-schema-loader/issues"
