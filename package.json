@@ -14,5 +14,14 @@
     "json-schema-ref-parser": "^3.0.2",
     "loader-utils": "^0.2.16",
     "lodash": "^4.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudflare/json-schema-loader/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
